@@ -1,0 +1,21 @@
+{
+  "name": "library",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Reinaldo Bispo Pereira Junior <reinaldob_j@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/reinaldobj/Library",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0"
+  }
+}
