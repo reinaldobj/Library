@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "applicationinsights": "^1.0.1",
     "ejs": "^2.5.7",
     "express": "~4.13.3",
     "express-handlebars": "~2.0.0",

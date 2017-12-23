@@ -1,6 +1,7 @@
 var express = require('express');
 var app = express();
 var sql = require('mssql');
+<<<<<<< HEAD
 const appInsights = require("applicationinsights");
 appInsights.setup("0f6ef017-c758-4464-bf6f-9f510305be94")
 .setAutoDependencyCorrelation(true)
@@ -12,6 +13,8 @@ appInsights.setup("0f6ef017-c758-4464-bf6f-9f510305be94")
 .setUseDiskRetryCaching(true)
 .start();
 
+=======
+>>>>>>> parent of 4b63643... Configurações application insight
 
 var config = {
     user: 'books',
